@@ -1,4 +1,4 @@
-# database
+# Запросы Марафон
 ![image](https://github.com/user-attachments/assets/4c225c3c-40d4-4bbc-8573-8e5f4e6c4d3d)
 
 Запрос 1:
